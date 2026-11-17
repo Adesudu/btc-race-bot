@@ -1,7 +1,11 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Adesudu/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Adesudu/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 # Dip-Recovery BTC Bot
 
 Trades Coinbase Wrapped BTC (cbBTC) against USDC, one minute at a time, in
-the make.fun `btc-race-24h-20261117-0603` competition. Starts with 1,000
+the [make.fun `btc-race-24h-20261117-0603` competition](https://make.fun/bounty/btc-race-24h-20261117-0603). Starts with 1,000
 USDC of paper money, long only, at most one open position.
 
 ## Strategy
